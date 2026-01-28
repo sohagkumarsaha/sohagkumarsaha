@@ -17,11 +17,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=750&lines=Ph.D.+Candidate+in+Electrical+%26+Computer+Engineering;Power+Systems+Engineer+with+10%2B+Years+Experience;Microgrid+Energy+Management+Systems;Battery+Energy+Storage+Systems+(BESS);Real-Time+Control+%26+Hardware-in-the-Loop+(HIL);Substation+Automation+%26+Grid+Integration" alt="Typing SVG" /></a>
 </p>
 
-🎓 **Ph.D. Candidate** at Tennessee Technological University (GPA: 4.00/4.00)
+🎓 **Ph.D. Candidate** at Tennessee Technological University, Cookeville, TN, USA
 
 ⚡ **Research Focus:** Power Systems · Microgrids · BESS Integration · Real-Time Control · HIL Validation
 
-🔌 **10+ Years Experience:** HV Substation Construction · Grid Operations · Energy Management Systems
+🔌 **10+ Years Experience:** Substation Construction · Grid Operations, Maintenance and Trouble-shooting · Energy Management Systems
 
 💡 Building intelligent energy systems for sustainable and resilient grid operations
 
@@ -33,8 +33,8 @@
 - 🎛️ **BESS Controls** — Site control implementation using SEL RTAC and Typhoon HIL for peak-shaving applications
 - ⚡ **Real-Time Validation** — Controller-Hardware-in-the-Loop (CHIL) testing for grid-connected BESS and PV systems
 - 🌐 **Grid Communication** — IEC-61850 GOOSE and Modbus TCP/IP protocol integration for interoperable systems
-- 🤖 **AI for Power Systems** — Machine learning models for solar irradiance forecasting and EV charging optimization
-- 🏗️ **Substation Engineering** — HV/MV substation design, commissioning, and protection system validation
+- 🤖 **AI for Power Systems** — Machine learning models for solar irradiance and wind energy forecasting application 
+- 🏗️ **Substation Engineering** — HV/MV substation inspection, installation, testing, commissioning, and protection system validation
 
 ---
 
@@ -108,19 +108,19 @@
 - 🎛️ Implemented supervisory control logic on **SEL RTAC 3530-4** using PLC Structured Text for BESS/PV/wind asset management
 - ⚡ Validated control strategies using **Typhoon HIL**, **SEL RTAC**, and **EPC power inverter controllers**
 - 📡 Integrated **Modbus TCP/IP** and **IEC-61850 GOOSE** communications for interoperable grid operations
-- 🚗 Developed EV charging control with **consensus-based tracking** and SoC balancing algorithms
+- 🚗 CHIL implementation of EV charging control with **consensus-based tracking** and SoC balancing algorithms
 - 🔧 Created Python-based automation tools for HIL SCADA testing and C-based control logic in Typhoon HIL
-- 📊 Performed distribution system analysis using **OpenDSS** for PV/EV hosting capacity and economic dispatch
+- 📊 Performed distribution system analysis using **OpenDSS** for PV/EV hosting capacity and economic load dispatch using PSO optimization
 
 ### Sub-Divisional Engineer — Ashuganj Power Station Company Ltd. (APSCL)
 *Substation Construction, Operation & Maintenance | Aug 2016 – Aug 2021*
 
 - ⚡ Led installation, testing, and commissioning of **400kV/230kV/132kV/33kV** HV substations
-- 🏗️ Managed **BOM** and technical specifications for HV equipment procurement (GIS/AIS switchgear, transformers, breakers)
+- 🏗️ Managed **bill-of-materials** and technical specifications for HV equipment procurement (GIS/AIS switchgear, transformers, breakers)
 - 👷 Directed cross-functional teams during outages and emergency maintenance ensuring **safety compliance**
 - 🔍 Conducted **root cause analysis** on switchgear/protection faults and implemented corrective design changes
 - 🔧 Commissioned autotransformers, SF6 breakers, shunt reactors, and distribution switching stations
-- 📋 Served as technical POC for **EPC contractors** during substation expansion projects
+- 📋 Served as technical point of contact  for **EPC contractors** during substation expansion projects
 
 ### Assistant Engineer — Bangladesh Rural Electrification Board (BREB)
 *Power Distribution Network Operation & Control | Aug 2015 – Aug 2016*
@@ -148,23 +148,23 @@
 🌞 **Solar Irradiance Forecasting with QL-Transformer** — Quantum LSTM + Multi-head attention model
 > `Python` `PyTorch` `LSTM` `Transformer` `Time-Series Analysis`
 
-🔌 **DAB Converter Control** — Dual Active Bridge converter with enhanced LADRC
+🔌 **DAB Converter Control** — Dual Active Bridge converter with enhanced Active Disturbance Rejection Controller for EV charging
 > `MATLAB/Simulink` `Typhoon HIL` `Control Validation`
 
-📊 **OpenDSS Hosting Capacity Analysis** — PV and EV integration studies for distribution networks
+📊 **OpenDSS Hosting Capacity Analysis** — Solar PV and Electric Vehicle integration studies for distribution networks
 > `OpenDSS` `Python` `Power Flow` `Optimization`
 
 ---
 
 ## 📜 Selected Publications
 
-📄 **Sohag Kumar Saha**, Ali Arzani, and Satish M. Mahajan, "Intelligent Energy Management Systems for Community Microgrids: A Recent Survey," *Proceedings XXIV Power Systems Computation Conference (PSCC)*, Limassol, Cyprus, June 2026. [Abstract Accepted]
+📄 **Sohag Kumar Saha**, Ali Arzani, and Satish M. Mahajan, "Intelligent Energy Management Systems for Community Microgrids: A Recent Survey," *Proceedings XXIV Power Systems Computation Conference (PSCC)*, Limassol, Cyprus, June 2026. [Abstract Accepted, and Final Paper is under review]
 
 📄 Hany A. Abdelsalam, Ali Arzani, Satish M. Mahajan, and **Sohag Kumar Saha**, "Real-Time Implementation of Consensus Tracking Control for Battery Energy Management and SoC Balancing," *IEEE 10th Texas Power and Energy Conference (TPEC)*, College Station, TX, Feb 2026.
 
 📄 Prashant Kumar, Ali Arzani, **Sohag Kumar Saha**, and Satish M. Mahajan, "An Enhanced Linear Active Disturbance Rejection Controller-Based Dual Active Bridge Converters for EV Charging," *IEEE Energy Conversion Congress and Expo (ECCE)*, Philadelphia, PA, Oct 2025.
 
-📄 **Sohag Kumar Saha**, Ali Arzani, Reynaldo Salcedo, and Satish M. Mahajan, "Modbus TCP/IP Based BESS Plant Controller Operations for a Peak Shaving Application," *IEEE 9th Texas Power and Energy Conference (TPEC)*, College Station, TX, Feb 2025. [(View)](https://ieeexplore.ieee.org)
+📄 **Sohag Kumar Saha**, Ali Arzani, Reynaldo Salcedo, and Satish M. Mahajan, "Modbus TCP/IP Based BESS Plant Controller Operations for a Peak Shaving Application," *IEEE 9th Texas Power and Energy Conference (TPEC)*, College Station, TX, Feb 2025. 
 
 📄 **Sohag Kumar Saha** and Satish M. Mahajan, "Multivariate Optimal Hybrid Deep Learning Model for Forecasting of Day-Ahead Solar Irradiance with Meteorological Constraints," *IEEE 56th North American Power Symposium (NAPS)*, El Paso, TX, 2024.
 
