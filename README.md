@@ -34,7 +34,7 @@
 - ⚡ **Real-Time Validation** — Controller-Hardware-in-the-Loop (CHIL) testing for grid-connected BESS and PV systems
 - 🌐 **Grid Communication** — IEC-61850 GOOSE and Modbus TCP/IP protocol integration for interoperable systems
 - 🤖 **AI for Power Systems** — Machine learning models for solar irradiance and wind energy forecasting application 
-- 🏗️ **Substation Engineering** — HV/MV substation inspection, installation, testing, commissioning, and protection system validation
+- 🏗️ **Substation Construction** — HV/MV substation inspection, installation, testing, commissioning, and protection system validation
 
 ---
 
