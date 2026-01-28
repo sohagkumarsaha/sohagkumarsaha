@@ -115,7 +115,7 @@
 ### Sub-Divisional Engineer — Ashuganj Power Station Company Ltd. (APSCL)
 *Substation Construction, Operation & Maintenance | Aug 2016 – Aug 2021*
 
-- ⚡ Led installation, testing, and commissioning of **400kV/230kV/132kV/33kV** HV substations
+- ⚡ Led installation, testing, and commissioning of HV/MV substations along with operation, maintenance and trouble-shooting of **230kV/132kV/33kV** grid network 
 - 🏗️ Managed **bill-of-materials** and technical specifications for HV equipment procurement (GIS/AIS switchgear, transformers, breakers)
 - 👷 Directed cross-functional teams during outages and emergency maintenance ensuring **safety compliance**
 - 🔍 Conducted **root cause analysis** on switchgear/protection faults and implemented corrective design changes
