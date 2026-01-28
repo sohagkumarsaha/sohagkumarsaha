@@ -21,7 +21,7 @@
 
 ⚡ **Research Focus:** Power Systems · Microgrids · BESS Integration · Real-Time Control · HIL Validation
 
-🔌 **10+ Years Experience:** Substation Construction · Grid Operations, Maintenance and Trouble-shooting · Energy Management Systems
+🔌 **10+ Years Experience:** Power Systems and Energy · Control and Protection · Energy Management Systems · Substation Construction · Grid Operations, Maintenance and Trouble-shooting
 
 💡 Building intelligent energy systems for sustainable and resilient grid operations
 
