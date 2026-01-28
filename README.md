@@ -189,16 +189,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohagkumarsaha&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=0E75B6&icon_color=0E75B6" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohagkumarsaha&layout=compact&theme=default&langs_count=8&hide_border=true&title_color=0E75B6" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sohagkumarsaha&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=6C63FF&icon_color=6C63FF" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sohagkumarsaha&layout=compact&theme=default&langs_count=8&hide_border=true&title_color=6C63FF" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=sohagkumarsaha&theme=default&hide_border=true&background=FFFFFF&ring=0E75B6&fire=0E75B6&currStreakLabel=000000&sideNums=000000&currStreakNum=0E75B6&dates=666666&sideLabels=666666" width="60%" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sohagkumarsaha&theme=default&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohagkumarsaha&theme=minimal&hide_border=true&area=true&area_color=0E75B6&line=0E75B6&point=0E75B6" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohagkumarsaha&theme=minimal&hide_border=true&area=true&area_color=6C63FF&line=6C63FF&point=6C63FF" width="98%" alt="Activity Graph"/>
 </p>
 
 ---
