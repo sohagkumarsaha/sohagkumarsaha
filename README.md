@@ -63,10 +63,10 @@
 > **Equipment:** 400kV/230kV/132kV/33kV Switchgear · SF6 Circuit Breakers · Power Transformers · CT/PT · Surge Arresters  
 > **Protocols:** Modbus TCP/IP · IEC-61850 GOOSE · Ethernet · SCADA Integration
 
-### Controls & Hardware-in-the-Loop (HIL)
+### Controller Hardware-in-the-Loop (CHIL)
 <p>
   <img src="https://img.shields.io/badge/Typhoon_HIL-006AB6?style=for-the-badge&logo=typhoon&logoColor=white" alt="Typhoon HIL"/>
-  <img src="https://img.shields.io/badge/MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/MATLAB_Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB/Simulink"/>
   <img src="https://img.shields.io/badge/PLC-FF6B00?style=for-the-badge&logo=programmable&logoColor=white" alt="PLC"/>
   <img src="https://img.shields.io/badge/RTAC-E60000?style=for-the-badge&logo=automation&logoColor=white" alt="RTAC"/>
 </p>
