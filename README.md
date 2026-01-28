@@ -248,7 +248,7 @@
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=jll3A6IAAAAJ">
-    <img src="https://img.shields.io/badge/Google_Scholar-Anik_Tahabilder-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google_Scholar-Sohag_Kumar_Saha-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
 </p>
 
