@@ -176,7 +176,7 @@
 
 🏆 **CESR Travel Grants** — NAPS 2024 (El Paso, TX) & Appalachian Energy Summit 2023 (Boone, NC)
 
-🏆 **Research Funding** — U.S. Appalachian Regional Commission (ARC) Grant MU-21579-23
+🏆 **Research Funding** — Ph.D. research projects are funded by the Appalachian Regional Commission (ARC) Grant, U.S.A.
 
 🏆 **Senior Member** — IEEE, IEEE Power and Energy Society (PES), IEEE Industry Applications Society (IAS)
 
