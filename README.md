@@ -194,7 +194,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohagkumarsaha&theme=default&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="60%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=sohagkumarsaha&theme=default&hide_border=true&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" width="60%" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
