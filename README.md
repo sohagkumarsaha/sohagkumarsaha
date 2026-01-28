@@ -51,7 +51,7 @@
 
 ## 🛠️ Technical Skills
 
-### Power Systems, Energy and Control Systems
+### Power Systems and Energy
 <p>
   <img src="https://img.shields.io/badge/HV_Substations-3C3C3D?style=for-the-badge&logo=electric&logoColor=white" alt="HV Substations"/>
   <img src="https://img.shields.io/badge/Protection_Relays-FF6B00?style=for-the-badge&logo=shield&logoColor=white" alt="Protection Relays"/>
