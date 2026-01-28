@@ -104,7 +104,7 @@
 ### Graduate Research Assistant — Tennessee Tech University
 *Center for Energy Systems Research (CESR) | Aug 2021 – Present*
 
-- 🔋 Developed intelligent site-control and energy management system for community microgrids using **actor-critic adaptive design**
+- 🔋 Developed intelligent site-control and energy management system for community microgrids using **actor-critic based deep reinforcement learning** algorithm
 - 🎛️ Implemented supervisory control logic on **SEL RTAC 3530-4** using PLC Structured Text for BESS/PV/wind asset management
 - ⚡ Validated control strategies using **Typhoon HIL**, **SEL RTAC**, and **EPC power inverter controllers**
 - 📡 Integrated **Modbus TCP/IP** and **IEC-61850 GOOSE** communications for interoperable grid operations
