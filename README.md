@@ -40,7 +40,7 @@
 
 ## 🎓 Education
 
-🎓 **Ph.D. in Electrical and Computer Engineering** — Tennessee Technological University, TN, USA *(4.00/4.00)* `2021 – Present`  
+🎓 **Ph.D. in Electrical and Computer Engineering** — Tennessee Technological University, TN, USA *(3.72/4.00)* `2021 – Present`  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Research: Power Systems Modeling, Energy Management Systems, CHIL Validation, Substation Automation*
 
 🎓 **M.Sc. in Electrical and Computer Engineering** — Tennessee Technological University, TN, USA *(3.65/4.00)* `2021 – 2024`
