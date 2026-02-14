@@ -29,7 +29,7 @@
 
 ## 🚀 Current Research & Focus
 
-- 🔋 **Intelligent EMS** — Developing adaptive critic design-based energy management systems for community microgrids
+- 🔋 **Intelligent EMS** — Developing deep reinforcement learning-based intelligent energy management systems for community microgrids
 - 🎛️ **BESS Controls** — Site control implementation using SEL RTAC and Typhoon HIL for peak-shaving applications
 - ⚡ **Real-Time Validation** — Controller-Hardware-in-the-Loop (CHIL) testing for grid-connected BESS and PV systems
 - 🌐 **Grid Communication** — IEC-61850 GOOSE and Modbus TCP/IP protocol integration for interoperable systems
