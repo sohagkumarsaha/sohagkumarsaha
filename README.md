@@ -17,7 +17,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=750&lines=Ph.D.+Candidate+in+Electrical+%26+Computer+Engineering;Power+Systems+Engineer+with+10%2B+Years+Experience;Microgrid+Energy+Management+Systems;Battery+Energy+Storage+Systems+(BESS);Real-Time+Control+%26+Hardware-in-the-Loop+(HIL);Substation+Automation+%26+Grid+Integration" alt="Typing SVG" /></a>
 </p>
 
-🎓 **Ph.D. Candidate** at Tennessee Technological University, Cookeville, TN, USA
+🎓 **Ph.D. Researcher** at Tennessee Technological University, Cookeville, TN, USA
 
 ⚡ **Research Focus:** Power Systems · Microgrids · BESS Integration · Real-Time Control · HIL Validation
 
@@ -104,7 +104,7 @@
 ### Graduate Research Assistant — Tennessee Tech University
 *Center for Energy Systems Research (CESR) | Aug 2021 – Present*
 
-- 🔋 Developed intelligent site-control and energy management system for community microgrids using **actor-critic based deep reinforcement learning** algorithm
+- 🔋 Developed intelligent site-control and energy management system for community microgrids using **deep reinforcement learning** algorithm
 - 🎛️ Implemented supervisory control logic on **SEL RTAC 3530-4** using PLC Structured Text for BESS/PV/wind asset management
 - ⚡ Validated control strategies using **Typhoon HIL**, **SEL RTAC**, and **EPC power inverter controllers**
 - 📡 Integrated **Modbus TCP/IP** and **IEC-61850 GOOSE** communications for interoperable grid operations
@@ -115,7 +115,7 @@
 ### Sub-Divisional Engineer — Ashuganj Power Station Company Ltd. (APSCL)
 *Substation Construction, Operation & Maintenance | Aug 2016 – Aug 2021*
 
-- ⚡ Led installation, testing, and commissioning of HV/MV substations along with operation, maintenance and trouble-shooting of **230kV/132kV/33kV** grid network 
+- ⚡ Led installation, testing, and commissioning of HV/MV substations along with operation, maintenance, and trouble-shooting of **230kV/132kV/33kV** grid network 
 - 🏗️ Managed **bill-of-materials** and technical specifications for HV equipment procurement (GIS/AIS switchgear, transformers, breakers)
 - 👷 Directed cross-functional teams during outages and emergency maintenance ensuring **safety compliance**
 - 🔍 Conducted **root cause analysis** on switchgear/protection faults and implemented corrective design changes
@@ -157,8 +157,6 @@
 ---
 
 ## 📜 Selected Publications
-
-📄 **Sohag Kumar Saha**, Ali Arzani, and Satish M. Mahajan, "Intelligent Energy Management Systems for Community Microgrids: A Recent Survey," *Proceedings XXIV Power Systems Computation Conference (PSCC)*, Limassol, Cyprus, June 2026. [Abstract Accepted, and Final Paper is under review]
 
 📄 Hany A. Abdelsalam, Ali Arzani, Satish M. Mahajan, and **Sohag Kumar Saha**, "Real-Time Implementation of Consensus Tracking Control for Battery Energy Management and SoC Balancing," *IEEE 10th Texas Power and Energy Conference (TPEC)*, College Station, TX, Feb 2026.
 
