@@ -251,10 +251,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Citations-194-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Citations"/>
+  <img src="https://img.shields.io/badge/Citations-201-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Citations"/>
   <img src="https://img.shields.io/badge/h--index-6-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="h-index"/>
   <img src="https://img.shields.io/badge/i10--index-4-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="i10-index"/>
-  <img src="https://img.shields.io/badge/Publications-14-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publications"/>
+  <img src="https://img.shields.io/badge/Publications-15-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publications"/>
 </p>
 
 
