@@ -14,7 +14,7 @@
 # Hi there, I'm Sohag Kumar Saha! 👋
 
 <p>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=750&lines=Ph.D.+Candidate+in+Electrical+%26+Computer+Engineering;Power+Systems+Engineer+with+10%2B+Years+Experience;Microgrid+Energy+Management+Systems;Battery+Energy+Storage+Systems+(BESS);Real-Time+Control+%26+Hardware-in-the-Loop+(HIL);Substation+Automation+%26+Grid+Integration" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&width=750&lines=Ph.D.+Researcher+in+Electrical+%26+Computer+Engineering;Power+Systems+Engineer+with+10%2B+Years+Experience;Microgrid+Energy+Management+Systems;Battery+Energy+Storage+Systems+(BESS);Real-Time+Control+%26+Hardware-in-the-Loop+(HIL);Substation+Automation+%26+Grid+Integration" alt="Typing SVG" /></a>
 </p>
 
 🎓 **Ph.D. Researcher** at Tennessee Technological University, Cookeville, TN, USA
