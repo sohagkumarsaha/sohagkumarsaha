@@ -158,6 +158,8 @@
 
 ## 📜 Selected Publications
 
+📄 Sohag Kumar Saha, Ali Arzani and Satish M. Mahajan, “Meta-DQN Tuned TD3-based Safety-Aware Deep Reinforcement Learning for Energy Management System in Community Microgrids.” Accepted in the IEEE Industry Applications Society (IAS) Annual Meeting 2026 Conf., Oct. 2026, Vancouver, Canada. [Accepted]
+
 📄 Hany A. Abdelsalam, Ali Arzani, Satish M. Mahajan, and **Sohag Kumar Saha**, "Real-Time Implementation of Consensus Tracking Control for Battery Energy Management and SoC Balancing," *IEEE 10th Texas Power and Energy Conference (TPEC)*, College Station, TX, Feb 2026.
 
 📄 Prashant Kumar, Ali Arzani, **Sohag Kumar Saha**, and Satish M. Mahajan, "An Enhanced Linear Active Disturbance Rejection Controller-Based Dual Active Bridge Converters for EV Charging," *IEEE Energy Conversion Congress and Expo (ECCE)*, Philadelphia, PA, Oct 2025.
@@ -251,7 +253,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Citations-213-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Citations"/>
+  <img src="https://img.shields.io/badge/Citations-225-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Citations"/>
   <img src="https://img.shields.io/badge/h--index-6-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="h-index"/>
   <img src="https://img.shields.io/badge/i10--index-4-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="i10-index"/>
   <img src="https://img.shields.io/badge/Publications-15-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Publications"/>
