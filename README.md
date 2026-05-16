@@ -158,7 +158,7 @@
 
 ## 📜 Selected Publications
 
-📄 Sohag Kumar Saha, Ali Arzani and Satish M. Mahajan, “Meta-DQN Tuned TD3-based Safety-Aware Deep Reinforcement Learning for Energy Management System in Community Microgrids.” Accepted in the IEEE Industry Applications Society (IAS) Annual Meeting 2026 Conf., Oct. 2026, Vancouver, Canada. [Accepted]
+📄 ** Sohag Kumar Saha**, Ali Arzani, and Satish M. Mahajan, “Meta-DQN Tuned TD3-based Safety-Aware Deep Reinforcement Learning for Energy Management System in Community Microgrids.” Accepted in the IEEE Industry Applications Society (IAS) Annual Meeting 2026 Conf., Oct. 2026, Vancouver, Canada. [Accepted]
 
 📄 Hany A. Abdelsalam, Ali Arzani, Satish M. Mahajan, and **Sohag Kumar Saha**, "Real-Time Implementation of Consensus Tracking Control for Battery Energy Management and SoC Balancing," *IEEE 10th Texas Power and Energy Conference (TPEC)*, College Station, TX, Feb 2026.
 
